@@ -1,16 +1,27 @@
-### Hi there 👋
+# About me!
+<img align='right' src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="230">
 
-<!--
-**moejoe1996/moejoe1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profile.info()
+```python
+info_about_me = {
+    "name": "José Dávalos",
+    "code": ['Python', 'Java', 'C/C++', 'C#', 'Javascript', 'HTML/CSS'],
+    "languages": ['Spanish', 'English', 'French'],
+    "activities": ['VideoGames','Music', 'Movies']
+}
+```
 
-Here are some ideas to get you started:
+### Me.socials()
+- [Linkedin](www.linkedin.com/in/jose-davalos-40ab28191)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Twitter](https://twitter.com/moejoe1996)
+
+- [Instagram](https://www.instagram.com/ing.moejoe1996/)
+
+### Github.Stats()
+
+![github stats](https://github-readme-stats.vercel.app/api?username=moejoe1996&show_icons=true)
+
+### Print(motto)
+
+	> Never stop learning <
