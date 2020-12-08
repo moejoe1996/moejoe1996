@@ -1,17 +1,20 @@
-# About me!
+# About me
+
 <img align='right' src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="230">
 
 ### Profile.info()
+
 ```python
 info_about_me = {
     "name": "José Dávalos",
-    "code": ['Python', 'Java', 'C/C++', 'C#', 'Javascript', 'HTML/CSS'],
+    "code": ['Dart','Python', 'Java', 'C/C++', 'C#', 'Javascript', 'HTML/CSS'],
     "languages": ['Spanish', 'English', 'French'],
     "activities": ['VideoGames','Music', 'Movies']
 }
 ```
 
 ### Me.socials()
+
 - [Linkedin](www.linkedin.com/in/jose-davalos-40ab28191)
 
 - [Twitter](https://twitter.com/moejoe1996)
@@ -25,3 +28,4 @@ info_about_me = {
 ### Print(motto)
 
 	> Never stop learning <
+    > Flutter :) <
